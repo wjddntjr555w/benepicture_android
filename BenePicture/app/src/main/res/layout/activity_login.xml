@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/containerView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg1" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg0" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="90dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/label4" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginStart="60dp"
+                android:src="@drawable/icon02" />
+        </FrameLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="30dp">
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="53dp"
+                    android:layout_marginStart="70dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginEnd="70dp"
+                    android:background="@drawable/xml_bg_round_rect_ffffff">
+
+                    <com.bene.pictures.ui.widget.BaseEditText
+                        android:id="@+id/edt_id"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginEnd="45dp"
+                        android:background="@color/color_transparent"
+                        android:gravity="center_vertical"
+                        android:hint="@string/str_id_hint"
+                        android:inputType="text"
+                        android:paddingLeft="15dp"
+                        android:paddingRight="15dp"
+                        android:text="tester1"
+                        android:textColor="@color/color_ff595959"
+                        android:textColorHint="@color/color_ffbdbdbd"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+
+                    <ImageView
+                        android:id="@+id/imv_id_delete"
+                        android:layout_width="35dp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="end"
+                        android:layout_marginEnd="10dp"
+                        android:scaleType="center"
+                        android:src="@drawable/icon03" />
+
+                </FrameLayout>
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="53dp"
+                    android:layout_marginStart="70dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginEnd="70dp"
+                    android:background="@drawable/xml_bg_round_rect_ffffff">
+
+                    <com.bene.pictures.ui.widget.BaseEditText
+                        android:id="@+id/edt_pwd"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginEnd="45dp"
+                        android:background="@color/color_transparent"
+                        android:gravity="center_vertical"
+                        android:hint="@string/str_pwd_hint"
+                        android:inputType="textPassword"
+                        android:paddingLeft="15dp"
+                        android:paddingRight="15dp"
+                        android:text="tester1"
+                        android:textColor="@color/color_ff595959"
+                        android:textColorHint="@color/color_ffbdbdbd"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+
+                    <ImageView
+                        android:id="@+id/imv_pwd_delete"
+                        android:layout_width="35dp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="end"
+                        android:layout_marginEnd="10dp"
+                        android:scaleType="center"
+                        android:src="@drawable/icon03" />
+
+                </FrameLayout>
+
+                <com.bene.pictures.ui.widget.BaseTextView
+                    android:id="@+id/txv_login"
+                    android:layout_width="match_parent"
+                    android:layout_height="53dp"
+                    android:layout_marginStart="70dp"
+                    android:layout_marginTop="18dp"
+                    android:layout_marginEnd="70dp"
+                    android:background="@drawable/xml_btn_round_rect_1976d2"
+                    android:gravity="center"
+                    android:text="로그인"
+                    android:textColor="@color/color_ffffffff"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/cb_auto_login"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="70dp"
+                    android:layout_marginTop="10dp"
+                    android:buttonTint="@color/color_ff1976d2"
+                    android:text="자동 로그인"
+                    android:textColor="@color/color_ff616161" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginStart="80dp"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginEnd="80dp"
+                    android:background="@color/color_ffcccccc" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:layout_marginStart="60dp"
+                    android:layout_marginEnd="60dp"
+                    android:orientation="horizontal">
+
+                    <com.bene.pictures.ui.widget.BaseTextView
+                        android:id="@+id/txv_idfind"
+                        android:layout_width="0dip"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="ID찾기"
+                        android:textColor="@color/color_ff616161"
+                        android:textSize="14sp" />
+
+                    <com.bene.pictures.ui.widget.BaseTextView
+                        android:id="@+id/txv_pwdfind"
+                        android:layout_width="0dip"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="비밀번호 찾기"
+                        android:textColor="@color/color_ff616161"
+                        android:textSize="14sp" />
+
+                    <com.bene.pictures.ui.widget.BaseTextView
+                        android:id="@+id/txv_register"
+                        android:layout_width="0dip"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="회원가입"
+                        android:textColor="@color/color_ff616161"
+                        android:textSize="14sp" />
+
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/imv_kakao"
+                    android:layout_width="match_parent"
+                    android:layout_height="53dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginStart="70dp"
+                    android:layout_marginEnd="70dp"
+                    android:layout_marginBottom="70dp"
+                    android:background="@drawable/label7" />
+
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "784999157167",
+    "firebase_url": "https://benepicture-e5690.firebaseio.com",
+    "project_id": "benepicture-e5690",
+    "storage_bucket": "benepicture-e5690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784999157167:android:ec0d736de8cfef7a8b735a",
+        "android_client_info": {
+          "package_name": "com.bene.pictures"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784999157167-ljbgsfbj5se6mbakn2kgrvf5jr3hlaag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTfi6GY5bkDbNDGX577K2JE2rSdSKUIH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784999157167-ljbgsfbj5se6mbakn2kgrvf5jr3hlaag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

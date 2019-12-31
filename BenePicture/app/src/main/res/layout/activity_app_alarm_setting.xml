@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/containerView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_fff3f3f3"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:background="#78BFFD">
+
+        <com.bene.pictures.ui.widget.BaseTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="앱 알림설정"
+            android:textColor="@color/color_ffffffff"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imv_back"
+            android:layout_width="44dp"
+            android:layout_height="match_parent"
+            android:scaleType="center"
+            android:src="@drawable/icon04" />
+
+    </FrameLayout>
+
+    <ScrollView
+        android:id="@+id/scv_bg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp">
+
+            <com.bene.pictures.ui.widget.BaseTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginStart="17dp"
+                android:layout_marginTop="30dp"
+                android:text="앱 알람"
+                android:textColor="@color/color_ff757575"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <FrameLayout
+                android:id="@+id/fly_alarm_all"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp">
+
+                <com.bene.pictures.ui.widget.BaseTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginStart="20dp"
+                    android:text="전체 설정"
+                    android:textColor="@color/color_ff757575"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/imv_alarm_all"
+                    android:layout_width="56dp"
+                    android:layout_height="27dp"
+                    android:layout_gravity="center_vertical|right"
+                    android:layout_marginEnd="30dp"
+                    android:background="@drawable/icon18" />
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/fly_winning_result_setting_bg"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp">
+
+                <com.bene.pictures.ui.widget.BaseTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginStart="20dp"
+                    android:text="당첨 결과"
+                    android:textColor="@color/color_ff757575"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/imv_winning_result_setting"
+                    android:layout_width="56dp"
+                    android:layout_height="27dp"
+                    android:layout_gravity="center_vertical|right"
+                    android:layout_marginEnd="30dp"
+                    android:background="@drawable/icon18" />
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/fly_friends_msg_setting_bg"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp">
+
+                <com.bene.pictures.ui.widget.BaseTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginStart="20dp"
+                    android:text="친구 메시지"
+                    android:textColor="@color/color_ff757575"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/imv_friends_msg_setting"
+                    android:layout_width="56dp"
+                    android:layout_height="27dp"
+                    android:layout_gravity="center_vertical|right"
+                    android:layout_marginEnd="30dp"
+                    android:background="@drawable/icon18" />
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/fly_notice_setting_bg"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp">
+
+                <com.bene.pictures.ui.widget.BaseTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginStart="20dp"
+                    android:text="공지사항"
+                    android:textColor="@color/color_ff757575"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/imv_notice_setting"
+                    android:layout_width="56dp"
+                    android:layout_height="27dp"
+                    android:layout_gravity="center_vertical|right"
+                    android:layout_marginEnd="30dp"
+                    android:background="@drawable/icon18" />
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/fly_puzzle_setting_bg"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp">
+
+                <com.bene.pictures.ui.widget.BaseTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginStart="20dp"
+                    android:text="잔여퍼즐"
+                    android:textColor="@color/color_ff757575"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <com.bene.pictures.ui.widget.BaseTextView
+                    android:id="@+id/txv_puzzle_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|right"
+                    android:layout_marginEnd="98dp"
+                    android:text="17시"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="16sp" />
+
+                <ImageView
+                    android:id="@+id/imv_puzzle_setting"
+                    android:layout_width="56dp"
+                    android:layout_height="27dp"
+                    android:layout_gravity="center_vertical|right"
+                    android:layout_marginEnd="30dp"
+                    android:background="@drawable/icon18" />
+
+            </FrameLayout>
+
+            <com.bene.pictures.ui.widget.BaseTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                android:hint="(잔여퍼즐 알림이란? 정해진 시간에 잔여 퍼즐이 남아있는 경우 알림)"
+                android:textColor="@color/color_ff757575"
+                android:textSize="13sp" />
+
+            <com.bene.pictures.ui.widget.BaseTextView
+                android:id="@+id/txv_setting"
+                android:layout_width="match_parent"
+                android:layout_height="53dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginTop="18dp"
+                android:layout_marginEnd="30dp"
+                android:background="@drawable/xml_btn_round_rect_1976d2"
+                android:gravity="center"
+                android:text="설정 완료"
+                android:textColor="@color/color_ffffffff"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

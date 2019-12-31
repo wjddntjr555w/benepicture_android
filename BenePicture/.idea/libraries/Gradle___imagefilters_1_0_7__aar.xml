@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :imagefilters-1.0.7:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b66704440e6de284a12b113522cd8c8d/imagefilters-1.0.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b66704440e6de284a12b113522cd8c8d/imagefilters-1.0.7/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
