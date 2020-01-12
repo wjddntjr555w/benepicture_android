@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\BenePicture-master\\BenePicture\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur\\values-ur.xml",
+            "outputFile": "C:\\benepicture\\Benepicture_android\\BenePicture\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur\\values-ur.xml",
             "map": [
                 {
                     "source": "C:\\Users\\woodo\\.gradle\\caches\\transforms-2\\files-2.1\\e51003e6a790326dabf6aa4f96629792\\firebase-messaging-17.3.4\\res\\values-ur\\values.xml",

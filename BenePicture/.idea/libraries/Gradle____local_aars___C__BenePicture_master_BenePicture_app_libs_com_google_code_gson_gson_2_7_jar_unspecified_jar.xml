@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="Gradle: __local_aars__:C.\BenePicture-master\BenePicture\app\libs\com.google.code.gson-gson-2.7.jar:unspecified@jar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/libs/com.google.code.gson-gson-2.7.jar!/" />
+      <root url="jar://C:/BenePicture-master/BenePicture/app/libs/com.google.code.gson-gson-2.7.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

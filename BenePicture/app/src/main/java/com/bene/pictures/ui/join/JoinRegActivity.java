@@ -6,8 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
-import com.facebook.accountkit.AccountKit;
-import com.facebook.accountkit.AccessToken;
+
 import com.bene.pictures.MyApplication;
 import com.bene.pictures.R;
 import com.bene.pictures.data.MyInfo;
@@ -34,8 +33,6 @@ import java.util.regex.Pattern;
 
 import butterknife.BindView;
 import butterknife.OnClick;
-
-public static int APP_REQUEST_CODE = 99;
 
 public class JoinRegActivity extends BaseActivity {
 
@@ -321,31 +318,31 @@ public class JoinRegActivity extends BaseActivity {
     @OnClick(R.id.txv_authsend)
     void OnClickAuthSend() {
 
-//        String phone_num = ui_edtPhone.getText().toString();
-//        if (phone_num.isEmpty()) {
-//            Toaster.showShort(this, "휴대폰 번호를 입력해주세요.");
-//            return;
-//        }
-//
-//        Net.instance().api.getKey(phone_num, "", 0)
-//                .enqueue(new Net.ResponseCallBack<MCert>() {
-//                    @Override
-//                    public void onSuccess(MCert response) {
-//                        super.onSuccess(response);
-//
-////                        if (NET_DEV_MODE == 1) {
-////                            Toaster.showShort(JoinRegActivity.this, response.cert_key);
-////                        } else {
-//                        Toaster.showShort(JoinRegActivity.this, "인증번호가 전송되었습니다");
-////                        }
-//                    }
-//
-//                    @Override
-//                    public void onFailure(MError response) {
-//                        super.onFailure(response);
-//                        Toaster.showShort(JoinRegActivity.this, response.res_msg);
-//                    }
-//                });
+        String phone_num = ui_edtPhone.getText().toString();
+        if (phone_num.isEmpty()) {
+            Toaster.showShort(this, "휴대폰 번호를 입력해주세요.");
+            return;
+        }
+
+        Net.instance().api.getKey(phone_num, "", 0)
+                .enqueue(new Net.ResponseCallBack<MCert>() {
+                    @Override
+                    public void onSuccess(MCert response) {
+                        super.onSuccess(response);
+
+//                        if (NET_DEV_MODE == 1) {
+//                            Toaster.showShort(JoinRegActivity.this, response.cert_key);
+//                        } else {
+                        Toaster.showShort(JoinRegActivity.this, "인증번호가 전송되었습니다");
+//                        }
+                    }
+
+                    @Override
+                    public void onFailure(MError response) {
+                        super.onFailure(response);
+                        Toaster.showShort(JoinRegActivity.this, response.res_msg);
+                    }
+                });
     }
 
     @OnClick(R.id.txv_idcheck)

@@ -1,14 +1,14 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:2:1-193:12
-INJECTED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:2:1-193:12
-INJECTED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:2:1-193:12
-INJECTED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:2:1-193:12
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:2:1-193:12
+INJECTED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:2:1-193:12
+INJECTED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:2:1-193:12
+INJECTED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:2:1-193:12
 MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\9605107777392091b2d9a651aee3960e\firebase-core-16.0.6\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.android:account-kit-sdk:5.4.0] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\73e9c11ad991eb83eaa54b1c7f65d8d1\account-kit-sdk-5.4.0\AndroidManifest.xml:21:1-55:12
 MERGED from [com.android.support:design:27.0.1] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\cec785d156372fec469a46adef90b970\design-27.0.1\AndroidManifest.xml:17:1-22:12
-MERGED from [:LibViewpagerIndicator] C:\BenePicture-master\BenePicture\LibViewpagerIndicator\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
-MERGED from [:LibMaterial] C:\BenePicture-master\BenePicture\LibMaterial\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:LibViewpagerIndicator] C:\benepicture\Benepicture_android\BenePicture\LibViewpagerIndicator\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:LibMaterial] C:\benepicture\Benepicture_android\BenePicture\LibMaterial\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\e51003e6a790326dabf6aa4f96629792\firebase-messaging-17.3.4\AndroidManifest.xml:17:1-37:12
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\0350a027a18f4a967d7374827aa78254\firebase-measurement-connector-impl-17.0.4\AndroidManifest.xml:17:1-34:12
 MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\a29ba818b365a6b1d0265f732c22815b\firebase-analytics-16.0.6\AndroidManifest.xml:17:1-55:12
@@ -28,7 +28,7 @@ MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\woodo\.
 MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\051b04baee93d72c1d7a67eb24219dca\play-services-ads-identifier-16.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\da6f0998b77869b6fa4b9d98415fd342\play-services-basement-16.0.1\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:27.0.1] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\678409eb4a88c5f88aca5a497ac7e049\support-v4-27.0.1\AndroidManifest.xml:17:1-22:12
-MERGED from [:LibAdvancedRecycler] C:\BenePicture-master\BenePicture\LibAdvancedRecycler\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:1-24:12
+MERGED from [:LibAdvancedRecycler] C:\benepicture\Benepicture_android\BenePicture\LibAdvancedRecycler\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\0a2e18a4f2ff4df27693646d17327648\appcompat-v7-27.0.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\5888885072d83faf57115185b34de04a\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:multidex:1.0.2] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\cd81bf1d425d81853f4a31076734f9f0\multidex-1.0.2\AndroidManifest.xml:17:1-22:12
@@ -38,7 +38,7 @@ MERGED from [:android-image-cropper-2.7.0:] C:\Users\woodo\.gradle\caches\transf
 MERGED from [:album-2.1.3:] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\fcdf29d261233989ef5a4267e57c5114\album-2.1.3\AndroidManifest.xml:17:1-73:12
 MERGED from [:imagefilters-1.0.7:] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\b66704440e6de284a12b113522cd8c8d\imagefilters-1.0.7\AndroidManifest.xml:2:1-17:12
 MERGED from [com.android.support:exifinterface:27.0.1] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\6d8c60ad74a4b5593fa7e52fe52137e9\exifinterface-27.0.1\AndroidManifest.xml:17:1-22:12
-MERGED from [:LibWKVideoPlayer] C:\BenePicture-master\BenePicture\LibWKVideoPlayer\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-16:12
+MERGED from [:LibWKVideoPlayer] C:\benepicture\Benepicture_android\BenePicture\LibWKVideoPlayer\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-16:12
 MERGED from [com.blankj:utilcode:1.22.1] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\7bdf59caaee9695534d3eb5642a66b89\utilcode-1.22.1\AndroidManifest.xml:2:1-29:12
 MERGED from [com.contrarywind:Android-PickerView:4.1.8] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\bc76591b7d81129ed6fd8abc44da0b68\Android-PickerView-4.1.8\AndroidManifest.xml:2:1-11:12
 MERGED from [com.wx.wheelview:wheelview:1.3.3] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\85c298dae294032d5733209e0142338a\wheelview-1.3.3\AndroidManifest.xml:2:1-16:12
@@ -64,33 +64,33 @@ MERGED from [com.kakao.sdk:common:1.17.0] C:\Users\woodo\.gradle\caches\transfor
 MERGED from [com.kakao.sdk:message-template:1.17.0] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\469e628370898322d9afb23d1df29246\message-template-1.17.0\AndroidManifest.xml:2:1-11:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\b63f6fdf1252fb2617983195ee47e2d1\runtime-1.0.0\AndroidManifest.xml:17:1-30:12
 MERGED from [com.kakao.sdk:util:1.17.0] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\f69c2d701a21f48a11bea9e34d6f7824\util-1.17.0\AndroidManifest.xml:2:1-11:12
-INJECTED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:2:1-193:12
-INJECTED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:2:1-193:12
-INJECTED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:2:1-193:12
+INJECTED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:2:1-193:12
+INJECTED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:2:1-193:12
+INJECTED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:2:1-193:12
 	package
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:3:5-32
-		INJECTED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml
-		INJECTED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml
+		INJECTED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:2:1-193:12
-		INJECTED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml
+		INJECTED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:2:1-193:12
+		INJECTED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:2:1-193:12
-		INJECTED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml
+		INJECTED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:2:1-193:12
+		INJECTED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:5:5-76
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:5:5-76
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:5:22-73
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:5:22-73
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:6:5-76
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:6:5-76
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:6:22-73
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:6:22-73
 uses-permission#android.permission.INTERNET
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:7:5-66
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:7:5-66
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\0350a027a18f4a967d7374827aa78254\firebase-measurement-connector-impl-17.0.4\AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\0350a027a18f4a967d7374827aa78254\firebase-measurement-connector-impl-17.0.4\AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\a29ba818b365a6b1d0265f732c22815b\firebase-analytics-16.0.6\AndroidManifest.xml:23:5-67
@@ -100,9 +100,9 @@ MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\woodo\
 MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\60d0ba3654059729d17391392d5897d4\firebase-iid-17.0.4\AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\60d0ba3654059729d17391392d5897d4\firebase-iid-17.0.4\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:7:22-64
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:7:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:8:5-79
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:8:5-79
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\0350a027a18f4a967d7374827aa78254\firebase-measurement-connector-impl-17.0.4\AndroidManifest.xml:23:5-79
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\0350a027a18f4a967d7374827aa78254\firebase-measurement-connector-impl-17.0.4\AndroidManifest.xml:23:5-79
 MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\a29ba818b365a6b1d0265f732c22815b\firebase-analytics-16.0.6\AndroidManifest.xml:24:5-79
@@ -112,67 +112,67 @@ MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\woodo\
 MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\60d0ba3654059729d17391392d5897d4\firebase-iid-17.0.4\AndroidManifest.xml:22:5-79
 MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\60d0ba3654059729d17391392d5897d4\firebase-iid-17.0.4\AndroidManifest.xml:22:5-79
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:8:22-76
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:8:22-76
 uses-permission#android.permission.CHANGE_NETWORK_STATE
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:9:5-79
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:9:5-79
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:9:22-76
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:9:22-76
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:10:5-75
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:10:5-75
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:10:22-72
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:10:22-72
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:11:5-80
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:11:5-80
 MERGED from [:album-2.1.3:] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\fcdf29d261233989ef5a4267e57c5114\album-2.1.3\AndroidManifest.xml:25:5-80
 MERGED from [:album-2.1.3:] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\fcdf29d261233989ef5a4267e57c5114\album-2.1.3\AndroidManifest.xml:25:5-80
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:11:22-77
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:11:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:12:5-81
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:12:5-81
 MERGED from [:album-2.1.3:] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\fcdf29d261233989ef5a4267e57c5114\album-2.1.3\AndroidManifest.xml:26:5-81
 MERGED from [:album-2.1.3:] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\fcdf29d261233989ef5a4267e57c5114\album-2.1.3\AndroidManifest.xml:26:5-81
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:12:22-78
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:12:22-78
 uses-permission#android.permission.READ_SMS
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:13:5-67
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:13:5-67
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:13:22-64
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:13:22-64
 uses-permission#android.permission.CAMERA
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:14:5-65
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:14:5-65
 MERGED from [:album-2.1.3:] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\fcdf29d261233989ef5a4267e57c5114\album-2.1.3\AndroidManifest.xml:24:5-65
 MERGED from [:album-2.1.3:] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\fcdf29d261233989ef5a4267e57c5114\album-2.1.3\AndroidManifest.xml:24:5-65
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:14:22-62
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:14:22-62
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:15:5-71
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:15:5-71
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:15:22-68
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:15:22-68
 uses-permission#android.permission.READ_CONTACTS
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:16:5-72
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:16:5-72
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:16:22-69
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:16:22-69
 uses-permission#android.permission.USE_FINGERPRINT
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:17:5-74
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:17:5-74
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:17:22-71
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:17:22-71
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:18:5-79
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:18:5-79
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:18:22-76
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:18:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:19:5-81
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:19:5-81
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:19:22-78
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:19:22-78
 uses-feature#android.hardware.camera
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:23:5-60
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:23:5-60
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:23:19-57
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:23:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:24:5-70
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:24:5-70
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:24:19-67
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:24:19-67
 application
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:26:5-191:19
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:26:5-191:19
 MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\9605107777392091b2d9a651aee3960e\firebase-core-16.0.6\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\9605107777392091b2d9a651aee3960e\firebase-core-16.0.6\AndroidManifest.xml:7:5-20
 MERGED from [com.facebook.android:account-kit-sdk:5.4.0] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\73e9c11ad991eb83eaa54b1c7f65d8d1\account-kit-sdk-5.4.0\AndroidManifest.xml:28:5-53:19
@@ -215,8 +215,8 @@ MERGED from [:album-2.1.3:] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1
 MERGED from [:album-2.1.3:] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\fcdf29d261233989ef5a4267e57c5114\album-2.1.3\AndroidManifest.xml:29:5-71:19
 MERGED from [:imagefilters-1.0.7:] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\b66704440e6de284a12b113522cd8c8d\imagefilters-1.0.7\AndroidManifest.xml:11:5-15:19
 MERGED from [:imagefilters-1.0.7:] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\b66704440e6de284a12b113522cd8c8d\imagefilters-1.0.7\AndroidManifest.xml:11:5-15:19
-MERGED from [:LibWKVideoPlayer] C:\BenePicture-master\BenePicture\LibWKVideoPlayer\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-14:19
-MERGED from [:LibWKVideoPlayer] C:\BenePicture-master\BenePicture\LibWKVideoPlayer\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-14:19
+MERGED from [:LibWKVideoPlayer] C:\benepicture\Benepicture_android\BenePicture\LibWKVideoPlayer\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-14:19
+MERGED from [:LibWKVideoPlayer] C:\benepicture\Benepicture_android\BenePicture\LibWKVideoPlayer\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-14:19
 MERGED from [com.blankj:utilcode:1.22.1] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\7bdf59caaee9695534d3eb5642a66b89\utilcode-1.22.1\AndroidManifest.xml:9:5-27:19
 MERGED from [com.blankj:utilcode:1.22.1] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\7bdf59caaee9695534d3eb5642a66b89\utilcode-1.22.1\AndroidManifest.xml:9:5-27:19
 MERGED from [com.wx.wheelview:wheelview:1.3.3] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\85c298dae294032d5733209e0142338a\wheelview-1.3.3\AndroidManifest.xml:11:5-14:19
@@ -226,65 +226,65 @@ MERGED from [com.kakao.sdk:auth:1.17.0] C:\Users\woodo\.gradle\caches\transforms
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\b63f6fdf1252fb2617983195ee47e2d1\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\b63f6fdf1252fb2617983195ee47e2d1\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:33:9-35
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:33:9-35
 	android:label
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:30:9-41
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:30:9-41
 	android:roundIcon
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:32:9-54
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:32:9-54
 	android:largeHeap
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:31:9-33
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:31:9-33
 	android:icon
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:29:9-43
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:29:9-43
 	android:allowBackup
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:28:9-35
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:28:9-35
 	android:theme
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:34:9-40
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:34:9-40
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:27:9-38
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:27:9-38
 activity#com.bene.pictures.ui.main.takereward.RewardPickerActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:35:9-86
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:35:9-86
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:35:19-74
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:35:19-74
 uses-library#org.apache.http.legacy
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:37:9-39:40
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:37:9-39:40
 	android:required
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:39:13-37
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:39:13-37
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:38:13-50
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:38:13-50
 activity#com.bene.pictures.ui.splash.SplashActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:41:9-48:20
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:41:9-48:20
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:41:19-59
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:41:19-59
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:42:13-46:29
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:42:13-46:29
 action#android.intent.action.MAIN
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:43:17-69
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:43:17-69
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:43:25-66
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:43:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:45:17-77
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:45:17-77
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:45:27-74
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:45:27-74
 meta-data#com.facebook.accountkit.ApplicationName
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:52:9-53:48
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:52:9-53:48
 	android:value
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:53:13-45
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:53:13-45
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:52:20-74
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:52:20-74
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:54:9-55:55
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:54:9-55:55
 	android:value
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:55:13-52
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:55:13-52
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:54:20-65
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:54:20-65
 meta-data#com.facebook.accountkit.ClientToken
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:56:9-57:64
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:56:9-57:64
 	android:value
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:57:13-61
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:57:13-61
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:56:20-70
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:56:20-70
 activity#com.facebook.accountkit.ui.AccountKitActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:58:9-59:76
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:58:9-59:76
 MERGED from [com.facebook.android:account-kit-sdk:5.4.0] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\73e9c11ad991eb83eaa54b1c7f65d8d1\account-kit-sdk-5.4.0\AndroidManifest.xml:29:9-34:58
 MERGED from [com.facebook.android:account-kit-sdk:5.4.0] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\73e9c11ad991eb83eaa54b1c7f65d8d1\account-kit-sdk-5.4.0\AndroidManifest.xml:29:9-34:58
 	android:label
@@ -296,261 +296,261 @@ MERGED from [com.facebook.android:account-kit-sdk:5.4.0] C:\Users\woodo\.gradle\
 	android:theme
 		ADDED from [com.facebook.android:account-kit-sdk:5.4.0] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\73e9c11ad991eb83eaa54b1c7f65d8d1\account-kit-sdk-5.4.0\AndroidManifest.xml:33:13-52
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:59:13-73
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:59:13-73
 meta-data#com.kakao.sdk.AppKey
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:62:9-64:53
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:62:9-64:53
 	android:value
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:64:13-50
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:64:13-50
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:63:13-48
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:63:13-48
 activity#com.bene.pictures.ui.login.LoginActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:65:9-68:73
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:65:9-68:73
 	android:screenOrientation
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:67:13-49
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:67:13-49
 	android:windowSoftInputMode
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:68:13-70
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:68:13-70
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:66:13-51
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:66:13-51
 activity#com.bene.pictures.ui.join.JoinAgreeActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:69:9-72:73
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:69:9-72:73
 	android:screenOrientation
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:71:13-49
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:71:13-49
 	android:windowSoftInputMode
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:72:13-70
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:72:13-70
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:70:13-54
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:70:13-54
 activity#com.bene.pictures.ui.join.JoinRegActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:73:9-76:73
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:73:9-76:73
 	android:screenOrientation
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:75:13-49
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:75:13-49
 	android:windowSoftInputMode
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:76:13-70
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:76:13-70
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:74:13-52
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:74:13-52
 activity#com.bene.pictures.ui.login.IdFindActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:77:9-80:73
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:77:9-80:73
 	android:screenOrientation
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:79:13-49
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:79:13-49
 	android:windowSoftInputMode
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:80:13-70
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:80:13-70
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:78:13-52
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:78:13-52
 activity#com.bene.pictures.ui.login.PwdFindActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:81:9-84:73
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:81:9-84:73
 	android:screenOrientation
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:83:13-49
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:83:13-49
 	android:windowSoftInputMode
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:84:13-70
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:84:13-70
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:82:13-53
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:82:13-53
 activity#com.bene.pictures.ui.login.PwdChangeActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:85:9-88:73
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:85:9-88:73
 	android:screenOrientation
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:87:13-49
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:87:13-49
 	android:windowSoftInputMode
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:88:13-70
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:88:13-70
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:86:13-55
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:86:13-55
 activity#com.bene.pictures.ui.main.MainActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:89:9-92:73
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:89:9-92:73
 	android:screenOrientation
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:91:13-49
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:91:13-49
 	android:windowSoftInputMode
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:92:13-70
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:92:13-70
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:90:13-49
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:90:13-49
 activity#com.bene.pictures.ui.dialog.ConfirmDialogActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:93:9-95:59
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:93:9-95:59
 	android:theme
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:95:13-56
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:95:13-56
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:94:13-60
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:94:13-60
 activity#com.bene.pictures.ui.dialog.SignOutActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:96:9-99:73
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:96:9-99:73
 	android:windowSoftInputMode
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:99:13-70
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:99:13-70
 	android:theme
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:98:13-56
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:98:13-56
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:97:13-54
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:97:13-54
 activity#com.bene.pictures.ui.main.adver.VideoAdverViewActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:100:9-102:52
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:100:9-102:52
 	android:screenOrientation
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:102:13-49
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:102:13-49
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:101:13-65
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:101:13-65
 activity#com.bene.pictures.ui.setting.AppAlarmSettingActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:103:9-106:73
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:103:9-106:73
 	android:screenOrientation
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:105:13-49
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:105:13-49
 	android:windowSoftInputMode
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:106:13-70
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:106:13-70
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:104:13-63
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:104:13-63
 activity#com.bene.pictures.ui.setting.ProfileSettingActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:107:9-110:73
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:107:9-110:73
 	android:screenOrientation
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:109:13-49
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:109:13-49
 	android:windowSoftInputMode
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:110:13-70
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:110:13-70
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:108:13-62
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:108:13-62
 activity#com.bene.pictures.ui.main.msgbox.MsgBoxActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:111:9-114:73
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:111:9-114:73
 	android:screenOrientation
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:113:13-49
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:113:13-49
 	android:windowSoftInputMode
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:114:13-70
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:114:13-70
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:112:13-58
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:112:13-58
 activity#com.bene.pictures.ui.main.friendlist.FriendListActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:115:9-129:20
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:115:9-129:20
 	android:windowSoftInputMode
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:117:13-70
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:117:13-70
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:116:13-66
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:116:13-66
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/kakaolink_host+data:scheme:@string/kakao_scheme
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:119:13-128:29
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:119:13-128:29
 action#android.intent.action.VIEW
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:120:17-69
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:120:17-69
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:120:25-66
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:120:25-66
 category#android.intent.category.DEFAULT
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:122:17-76
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:122:17-76
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:122:27-73
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:122:27-73
 category#android.intent.category.BROWSABLE
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:123:17-78
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:123:17-78
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:123:27-75
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:123:27-75
 data
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:125:17-127:61
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:125:17-127:61
 	android:host
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:126:21-58
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:126:21-58
 	android:scheme
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:127:21-58
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:127:21-58
 activity#com.bene.pictures.ui.main.mypage.MypageActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:130:9-132:52
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:130:9-132:52
 	android:screenOrientation
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:132:13-49
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:132:13-49
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:131:13-58
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:131:13-58
 activity#com.bene.pictures.ui.main.msgbox.MsgDetailActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:133:9-135:59
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:133:9-135:59
 	android:theme
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:135:13-56
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:135:13-56
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:134:13-61
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:134:13-61
 activity#com.bene.pictures.ui.main.takereward.ReviewDetailActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:136:9-138:59
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:136:9-138:59
 	android:theme
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:138:13-56
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:138:13-56
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:137:13-68
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:137:13-68
 activity#com.bene.pictures.ui.main.takereward.TakeRewardActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:139:9-141:73
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:139:9-141:73
 	android:windowSoftInputMode
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:141:13-70
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:141:13-70
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:140:13-66
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:140:13-66
 activity#com.bene.pictures.ui.main.mypage.SubscribeInfoDetailActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:142:9-144:59
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:142:9-144:59
 	android:theme
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:144:13-56
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:144:13-56
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:143:13-71
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:143:13-71
 activity#com.bene.pictures.ui.main.adver.SwitchingPuzzleAdverActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:145:9-147:52
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:145:9-147:52
 	android:screenOrientation
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:147:13-49
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:147:13-49
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:146:13-71
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:146:13-71
 activity#com.bene.pictures.ui.main.adver.ParingPuzzelAdverActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:148:9-150:52
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:148:9-150:52
 	android:screenOrientation
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:150:13-49
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:150:13-49
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:149:13-68
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:149:13-68
 activity#com.bene.pictures.ui.main.regadver.RegAdverActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:151:9-154:73
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:151:9-154:73
 	android:screenOrientation
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:153:13-49
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:153:13-49
 	android:windowSoftInputMode
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:154:13-70
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:154:13-70
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:152:13-62
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:152:13-62
 activity#com.bene.pictures.ui.main.winnner.WinnerCheckActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:155:9-157:52
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:155:9-157:52
 	android:screenOrientation
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:157:13-49
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:157:13-49
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:156:13-64
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:156:13-64
 activity#com.bene.pictures.ui.dialog.UserCheckActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:158:9-161:73
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:158:9-161:73
 	android:windowSoftInputMode
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:161:13-70
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:161:13-70
 	android:theme
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:160:13-56
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:160:13-56
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:159:13-56
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:159:13-56
 activity#com.theartofdev.edmodo.cropper.CropImageActivity
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:162:9-165:59
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:162:9-165:59
 	android:screenOrientation
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:164:13-49
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:164:13-49
 	android:theme
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:165:13-56
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:165:13-56
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:163:13-76
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:163:13-76
 service#com.bene.pictures.fcm.FirebaseMessagingService
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:168:9-172:19
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:168:9-172:19
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:168:18-62
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:168:18-62
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:169:13-171:29
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:169:13-171:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:170:17-78
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:170:17-78
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:170:25-75
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:170:25-75
 service#com.bene.pictures.fcm.FirebaseInstanceIDService
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:173:9-177:19
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:173:9-177:19
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:173:18-63
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:173:18-63
 intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:174:13-176:29
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:174:13-176:29
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:175:17-80
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:175:17-80
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:175:25-77
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:175:25-77
 provider#android.support.v4.content.FileProvider
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:179:9-187:20
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:179:9-187:20
 	android:grantUriPermissions
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:183:13-47
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:183:13-47
 	android:authorities
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:181:13-61
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:181:13-61
 	android:exported
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:182:13-37
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:182:13-37
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:180:13-67
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:180:13-67
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:184:13-186:62
+ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:184:13-186:62
 	android:resource
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:186:17-59
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:186:17-59
 	android:name
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml:185:17-67
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml:185:17-67
 uses-sdk
-INJECTED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml
-INJECTED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml
+INJECTED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml
+INJECTED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml
 MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\9605107777392091b2d9a651aee3960e\firebase-core-16.0.6\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\9605107777392091b2d9a651aee3960e\firebase-core-16.0.6\AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.android:account-kit-sdk:5.4.0] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\73e9c11ad991eb83eaa54b1c7f65d8d1\account-kit-sdk-5.4.0\AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:account-kit-sdk:5.4.0] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\73e9c11ad991eb83eaa54b1c7f65d8d1\account-kit-sdk-5.4.0\AndroidManifest.xml:24:5-26:41
 MERGED from [com.android.support:design:27.0.1] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\cec785d156372fec469a46adef90b970\design-27.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:27.0.1] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\cec785d156372fec469a46adef90b970\design-27.0.1\AndroidManifest.xml:20:5-44
-MERGED from [:LibViewpagerIndicator] C:\BenePicture-master\BenePicture\LibViewpagerIndicator\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:LibViewpagerIndicator] C:\BenePicture-master\BenePicture\LibViewpagerIndicator\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:LibMaterial] C:\BenePicture-master\BenePicture\LibMaterial\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:LibMaterial] C:\BenePicture-master\BenePicture\LibMaterial\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:LibViewpagerIndicator] C:\benepicture\Benepicture_android\BenePicture\LibViewpagerIndicator\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:LibViewpagerIndicator] C:\benepicture\Benepicture_android\BenePicture\LibViewpagerIndicator\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:LibMaterial] C:\benepicture\Benepicture_android\BenePicture\LibMaterial\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:LibMaterial] C:\benepicture\Benepicture_android\BenePicture\LibMaterial\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\e51003e6a790326dabf6aa4f96629792\firebase-messaging-17.3.4\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\e51003e6a790326dabf6aa4f96629792\firebase-messaging-17.3.4\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\0350a027a18f4a967d7374827aa78254\firebase-measurement-connector-impl-17.0.4\AndroidManifest.xml:20:5-44
@@ -589,8 +589,8 @@ MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\wood
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\da6f0998b77869b6fa4b9d98415fd342\play-services-basement-16.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:27.0.1] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\678409eb4a88c5f88aca5a497ac7e049\support-v4-27.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:27.0.1] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\678409eb4a88c5f88aca5a497ac7e049\support-v4-27.0.1\AndroidManifest.xml:20:5-44
-MERGED from [:LibAdvancedRecycler] C:\BenePicture-master\BenePicture\LibAdvancedRecycler\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-22:41
-MERGED from [:LibAdvancedRecycler] C:\BenePicture-master\BenePicture\LibAdvancedRecycler\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-22:41
+MERGED from [:LibAdvancedRecycler] C:\benepicture\Benepicture_android\BenePicture\LibAdvancedRecycler\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-22:41
+MERGED from [:LibAdvancedRecycler] C:\benepicture\Benepicture_android\BenePicture\LibAdvancedRecycler\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-22:41
 MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\0a2e18a4f2ff4df27693646d17327648\appcompat-v7-27.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\0a2e18a4f2ff4df27693646d17327648\appcompat-v7-27.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\5888885072d83faf57115185b34de04a\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
@@ -609,8 +609,8 @@ MERGED from [:imagefilters-1.0.7:] C:\Users\woodo\.gradle\caches\transforms-2\fi
 MERGED from [:imagefilters-1.0.7:] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\b66704440e6de284a12b113522cd8c8d\imagefilters-1.0.7\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:exifinterface:27.0.1] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\6d8c60ad74a4b5593fa7e52fe52137e9\exifinterface-27.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:exifinterface:27.0.1] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\6d8c60ad74a4b5593fa7e52fe52137e9\exifinterface-27.0.1\AndroidManifest.xml:20:5-44
-MERGED from [:LibWKVideoPlayer] C:\BenePicture-master\BenePicture\LibWKVideoPlayer\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:LibWKVideoPlayer] C:\BenePicture-master\BenePicture\LibWKVideoPlayer\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:LibWKVideoPlayer] C:\benepicture\Benepicture_android\BenePicture\LibWKVideoPlayer\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:LibWKVideoPlayer] C:\benepicture\Benepicture_android\BenePicture\LibWKVideoPlayer\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.blankj:utilcode:1.22.1] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\7bdf59caaee9695534d3eb5642a66b89\utilcode-1.22.1\AndroidManifest.xml:7:5-44
 MERGED from [com.blankj:utilcode:1.22.1] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\7bdf59caaee9695534d3eb5642a66b89\utilcode-1.22.1\AndroidManifest.xml:7:5-44
 MERGED from [com.contrarywind:Android-PickerView:4.1.8] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\bc76591b7d81129ed6fd8abc44da0b68\Android-PickerView-4.1.8\AndroidManifest.xml:7:5-9:41
@@ -661,18 +661,18 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\woodo\.gradle\caches
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\b63f6fdf1252fb2617983195ee47e2d1\runtime-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [com.kakao.sdk:util:1.17.0] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\f69c2d701a21f48a11bea9e34d6f7824\util-1.17.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.kakao.sdk:util:1.17.0] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\f69c2d701a21f48a11bea9e34d6f7824\util-1.17.0\AndroidManifest.xml:7:5-9:41
-INJECTED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml
-INJECTED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml
+INJECTED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml
+INJECTED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.kakao.sdk:kakaolink:1.17.0] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\8f7159ee8f06cbd991c054293daf4168\kakaolink-1.17.0\AndroidManifest.xml:11:9-59
 	android:targetSdkVersion
-		INJECTED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml
-		INJECTED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml
+		INJECTED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml
+		INJECTED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml
-		ADDED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml
-		INJECTED from C:\BenePicture-master\BenePicture\app\src\main\AndroidManifest.xml
+		INJECTED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml
+		ADDED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml
+		INJECTED from C:\benepicture\Benepicture_android\BenePicture\app\src\main\AndroidManifest.xml
 activity#com.facebook.accountkit.ui.AccountKitEmailRedirectActivity
 ADDED from [com.facebook.android:account-kit-sdk:5.4.0] C:\Users\woodo\.gradle\caches\transforms-2\files-2.1\73e9c11ad991eb83eaa54b1c7f65d8d1\account-kit-sdk-5.4.0\AndroidManifest.xml:35:9-38:40
 	android:noHistory

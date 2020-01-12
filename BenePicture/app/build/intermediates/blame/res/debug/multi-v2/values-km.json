@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\BenePicture-master\\BenePicture\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-km\\values-km.xml",
+            "outputFile": "C:\\benepicture\\Benepicture_android\\BenePicture\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-km\\values-km.xml",
             "map": [
                 {
                     "source": "C:\\Users\\woodo\\.gradle\\caches\\transforms-2\\files-2.1\\da6f0998b77869b6fa4b9d98415fd342\\play-services-basement-16.0.1\\res\\values-km\\values.xml",

@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="Gradle: __local_aars__:C.\BenePicture-master\BenePicture\app\libs\imageviewtouch.jar:unspecified@jar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/libs/imageviewtouch.jar!/" />
+      <root url="jar://C:/BenePicture-master/BenePicture/app/libs/imageviewtouch.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

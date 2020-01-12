@@ -19,8 +19,8 @@
 19
 20    <uses-sdk
 21        android:minSdkVersion="15"
-21-->C:\BenePicture-master\BenePicture\LibAdvancedRecycler\src\main\AndroidManifest.xml
+21-->C:\benepicture\Benepicture_android\BenePicture\LibAdvancedRecycler\src\main\AndroidManifest.xml
 22        android:targetSdkVersion="28" />
-22-->C:\BenePicture-master\BenePicture\LibAdvancedRecycler\src\main\AndroidManifest.xml
+22-->C:\benepicture\Benepicture_android\BenePicture\LibAdvancedRecycler\src\main\AndroidManifest.xml
 23
 24</manifest>
